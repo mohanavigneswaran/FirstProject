@@ -1,1 +1,1 @@
-creates text1.txt file and structure
+creates text1.txt file and structures
